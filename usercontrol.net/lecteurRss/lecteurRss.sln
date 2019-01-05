@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2018
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecteurRss", "lecteurRss\lecteurRss.vcproj", "{C4BDA478-EB48-414E-A2DE-233F05392403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BDA478-EB48-414E-A2DE-233F05392403}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4BDA478-EB48-414E-A2DE-233F05392403}.Debug|Win32.Build.0 = Debug|Win32
+		{C4BDA478-EB48-414E-A2DE-233F05392403}.Release|Win32.ActiveCfg = Release|Win32
+		{C4BDA478-EB48-414E-A2DE-233F05392403}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
